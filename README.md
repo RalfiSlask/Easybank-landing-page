@@ -1,4 +1,4 @@
-![Ecommerce-product page](./preview.png)
+![Easybank-Landing-Page](./preview.png)
 
 Built with
 
@@ -15,4 +15,4 @@ Author
 
 Live server
 
-- 
+- https://ralfislask.github.io/Easybank-landing-page/
